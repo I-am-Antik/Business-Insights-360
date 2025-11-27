@@ -76,3 +76,20 @@
 - **Key Insights by Subzone**
 
 - **Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share %** using a Line and Clustered Colmun Chart.
+
+## Technical Skills:
+ - [x] Proficiency in ETL methodology (Extract, Transform, Load).
+ - [x] Skills to generate a date table using Power Query.
+ - [x] Ability to derive fiscal months and quarters.
+ - [x] Establishing data model relationships in Model View.
+ - [x] Proficiency in incorporating supplementary data into an existing data model.
+ - [x] Utilizing DAX to create calculated columns and tables.
+ - [x] Using different visuals to represent Key Insights.
+ - [x] Used MySQL Database to load and retrieve the data.
+ - [x] Optimized the size of the file using DAX Studio.
+ - [x] Used Tooltips to show the trend.
+## Soft Skills:
+ - [x] Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
+ - [x] Designing user-centric Dashborads with empathy in mind.
+ - [x] Optimization of Dashboards generation through meticulous fine-tuning.
+ - [x] Stakeholder Management and managing their requirement.
